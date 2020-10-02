@@ -1,3 +1,5 @@
-# JSLab3
+# JSLab2
+
+fixed a typo
 
 
